@@ -5,7 +5,7 @@
 }
 
 .card {
-background-color: rgb(71, 75, 104);
+background-color: rgb(65, 70, 111);
 border: 10px;
 border-color: black;
 }
@@ -17,5 +17,9 @@ img{
 .card-title{
     justify-content: center;
     font-style: italic;
+    text-align: center;
+}
+
+p{
     text-align: center;
 }
