@@ -5,5 +5,17 @@
 }
 
 .card {
-background-color: aqua;
+background-color: rgb(71, 75, 104);
+border: 10px;
+border-color: black;
+}
+
+img{
+    height: 319px;
+}
+
+.card-title{
+    justify-content: center;
+    font-style: italic;
+    text-align: center;
 }
