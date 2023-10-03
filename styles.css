@@ -13,10 +13,9 @@
     align-items: center;
     background-position: center;
     justify-content: center;
-    color: #fff;
 }
  .profile-box{
-    background: #ff847c;
+    background: #d59c22;
     text-align: center;
     padding: 40px 90px;
     position: relative;
@@ -55,4 +54,46 @@
 }
 #arrow {
     width: 30px;
+}
+
+.profile-bottom{
+    background: #fff;
+    color: #999;
+    padding: 60px 0px;
+    margin-left: -90px;
+    margin-right: -90px;
+    margin-bottom: -40px;
+    border-radius: 20px;
+    margin-top: -10px;
+}
+
+.profile-bottom img{
+    width: 15px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.profile-box button{
+    background: #fff;
+    color: #d59c22;
+    border: none;
+    outline: none;
+    box-shadow: 0 5px 10px #d59c22;
+    padding: 15px 60px;
+    cursor: pointer;
+    border-radius: 30px;
+    margin-bottom: -50px;
+    font-weight: 600;
+    font-size: 16px;
+}
+.profile-box h3 {
+    font-size: 20px;
+    margin-top: 20px;
+    font-weight: 500;
+}
+
+.socials img{
+    width: 20px;
+    margin: 30px 5px;
+    cursor: pointer;
 }
